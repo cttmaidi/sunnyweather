@@ -11,6 +11,7 @@ public class City extends DataSupport {
     private String cityName;
     private int cityCode;
     private int proId;
+
     public int getId(){
         return id;
     }
